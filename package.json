@@ -1,0 +1,22 @@
+{
+  "name": "codewar",
+  "version": "1.0.0",
+  "description": "bracket's extension",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristianJakubik/codewar.git"
+  },
+  "author": "Kristian Jakubik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristianJakubik/codewar/issues"
+  },
+  "homepage": "https://github.com/KristianJakubik/codewar#readme",
+  "dependencies": {
+    "node-fetch": "1.7.3"
+  }
+}
